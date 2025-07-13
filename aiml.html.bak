@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<title>Catalogue-Page-AIML</title>
+	</head>
+	<body bgcolor="RED">
+	<font size="24px" color="blue"><u><b><p align="center">Catalogue-Page-AI&ML</p></u><b></font>
+	<form name="reg" method="get" >
+		<table align="center" border="1" bgcolor="orange" >
+			<tr>
+				<th bgcolor="red">Cover-Image</th>
+				<th bgcolor="red">Author-Name</th>
+				<th bgcolor="red">Publisher-Details</th>
+				<th bgcolor="red">Price</th>
+				<th bgcolor="red">Add-To-Cart</th>
+				
+			</tr>
+			
+			<tr>
+				<td><img src="html5.jpg" alt="HTML5" height="150px" width="150px"></td>
+				<td>DT Editorial Services</td>
+				<td>Drem-Tech</td>
+				<td>749/-</td>
+				<td><img src="bt.jpg" alt="HTML5" height="50px" width="200px"></td>
+				
+			</tr>
+			<tr>
+				<td><img src="wt.jpg" alt="HTML5" height="150px" width="150px"></td>
+				<td>Kogent Learning Solutions Inc.</td>
+				<td>Drem-Tech</td>
+				<td>849/-</td>
+				<td><img src="bt.jpg" alt="HTML5" height="50px" width="200px"></td>
+				
+			</tr>
+			<tr>
+				<td><img src="react.jpg" alt="HTML5" height="150px" width="150px"></td>
+				<td>Kirupa Chinnathambi</td>
+				<td>Addison Wesley</td>
+				<td>575/-</td>
+				<td><img src="bt.jpg" alt="HTML5" height="50px" width="200px"></td>
+				
+			</tr>
+			<tr>
+				<td><img src="bs.jpg" alt="HTML5" height="150px" width="150px"></td>
+				<td>Jorge Krause</td>
+				<td>Apress</td>
+				<td>500/-</td>
+				<td><img src="bt.jpg" alt="HTML5" height="50px" width="200px"></td>
+				
+			</tr>
+			<tr>
+				<td><img src="fsad.jpg" alt="HTML5" height="150px" width="150px"></td>
+				<td>Riaz Ahmed</td>
+				<td>Atlantic</td>
+				<td>2753/-</td>
+				<td><img src="bt.jpg" alt="HTML5" height="50px" width="200px"></td>
+				
+			</tr>
+		</table>
+	</body>
+</html>
