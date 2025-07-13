@@ -53,12 +53,3 @@ This project is a **full-featured web application** designed to serve both as a 
 * Helps **students and faculty** explore library holdings online, reducing manual catalog checks.
 * Offers a **commercial storefront** for buying new/other books, supporting the institution’s bookstore.
 * Simplifies management of departmental book collections.
-
----
-
-✅ If you’d like, I can also prepare:
-
-* A **short tagline / banner description** (for the top of the site),
-* A **sample ER diagram**, or
-* **README.md** with installation & usage steps.
-  Just tell me what you need! 🚀
