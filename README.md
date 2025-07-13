@@ -1,6 +1,3 @@
-
-
-
 # 📚 Book Store Website — College Library & Book Purchase Platform
 
 This project is a **full-featured web application** designed to serve both as a **digital catalog for a college library** and as an **online bookstore** for external buyers. It efficiently manages academic books department-wise, while also providing e-commerce functionalities for purchasing other books.
