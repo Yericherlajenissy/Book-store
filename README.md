@@ -42,8 +42,11 @@ This project is a **full-featured web application** designed to serve both as a 
 ### ⚙️ Technologies Used
 
 ✅ **Frontend:** HTML, CSS, JavaScript (with Bootstrap)
+
 ✅ **Backend:** Python Flask / Node.js Express (or your stack)
+
 ✅ **Database:** MySQL / MongoDB (stores books, users, orders)
+
 ✅ **Additional:** Sessions for cart, possibly JWT/Auth for user login
 
 ---
